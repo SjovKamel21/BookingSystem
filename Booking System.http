@@ -1,0 +1,6 @@
+@Booking_System_HostAddress = http://localhost:5195
+
+GET {{Booking_System_HostAddress}}/api/vehicles
+Accept: application/json
+
+###
